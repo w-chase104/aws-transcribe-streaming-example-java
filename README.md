@@ -1,4 +1,4 @@
-# Connected to AWS
+## Connected to AWS
 # AWS Transcribe Streaming Example Java Application 
 
 Example Java Application using AWS SDK creating streaming transcriptions via AWS Transcribe
